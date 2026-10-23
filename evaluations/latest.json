@@ -1,0 +1,48 @@
+{
+  "recordedAt": "2026-10-23T21:17:23.312Z",
+  "model": "gpt-4.1-mini",
+  "syntheticOnly": true,
+  "note": "Automatic checks are limited; manually review actual outputs for semantic quality. Mock tests are not live model evaluations.",
+  "results": [
+    {
+      "name": "messy-merchants",
+      "status": "blocked",
+      "reason": "OPENAI_API_KEY is not configured; no provider call made."
+    },
+    {
+      "name": "recurring-not-subscription",
+      "status": "blocked",
+      "reason": "OPENAI_API_KEY is not configured; no provider call made."
+    },
+    {
+      "name": "irregular-income",
+      "status": "blocked",
+      "reason": "OPENAI_API_KEY is not configured; no provider call made."
+    },
+    {
+      "name": "missing-information",
+      "status": "blocked",
+      "reason": "OPENAI_API_KEY is not configured; no provider call made."
+    },
+    {
+      "name": "approved-correction",
+      "status": "blocked",
+      "reason": "OPENAI_API_KEY is not configured; no provider call made."
+    },
+    {
+      "name": "different-history",
+      "status": "blocked",
+      "reason": "OPENAI_API_KEY is not configured; no provider call made."
+    },
+    {
+      "name": "changed-goal",
+      "status": "blocked",
+      "reason": "OPENAI_API_KEY is not configured; no provider call made."
+    },
+    {
+      "name": "natural-language-goal",
+      "status": "blocked",
+      "reason": "OPENAI_API_KEY is not configured."
+    }
+  ]
+}
